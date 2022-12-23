@@ -28,12 +28,12 @@ int main(void) {
 			printf("%d\n", next); 
 		}
 			else{
-						// at this point  idx is 4 anbd res is 6 
+						
 			next = next + (idx + 1); 
 				printf("%d\n", next); 
 			}
-			}// end for loop 
+	 }// end for loop 
 
 	
 	  return 0;
-}
+}// end of  main func 
